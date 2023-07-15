@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "type": "GRID_SQUARE",
+      "title": "Bersosialisasi",
+      "description": "Kemampuan untuk menghubungkan diri sendiri secara hangat dengan orang lain.",
+      "localImageResource": "dewasa1"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Pergaulan sekitar",
+      "description": "Pergaulan adalah cerminan dirimu, pergaulan dapat mempengaruhi mindsetmu.",
+      "localImageResource": "dewasa2"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Dewasa Awal",
+      "description": "Kemampuan untuk menghubungkan diri sendiri secara hangat dengan orang lain.",
+      "localImageResource": "dewasa3"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Belajar",
+      "description": "Kemampuan untuk menghubungkan diri sendiri secara hangat dengan orang lain.",
+      "localImageResource": "dewasa4"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Mandiri",
+      "description": "Kemampuan untuk menghubungkan diri sendiri secara hangat dengan orang lain.",
+      "localImageResource": "dewasa5"
+    }
+  ]
+}

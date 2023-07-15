@@ -1,0 +1,42 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 0,
+        "type": "DEFAULT",
+        "title": "Food",
+        "localImageResource": "food",
+        "description": "Showcase of various Restaurant"
+      },
+      {
+        "id": 1,
+        "type": "DEFAULT",
+        "title": "Nature",
+        "localImageResource": "nature",
+        "description": "Showcase of various Mountain, Waterfall, Lake and Etc"
+      },
+      {
+        "id": 2,
+        "type": "DEFAULT",
+        "title": "Educational",
+        "localImageResource": "edu",
+        "description": "Showcase of various School, Libary and Museum"
+      },
+      {
+        "id": 3,
+        "type": "DEFAULT",
+        "title": "History",
+        "localImageResource": "history",
+        "description": "Showcase of various Historic Sites, Museum, and Temple"
+      },
+      {
+        "id": 4,
+        "type": "DEFAULT",
+        "title": "Shopping",
+        "localImageResource": "shop",
+        "description": "Showcase of various Market, Mall, and Etc"
+      }
+    ]
+  }
+]

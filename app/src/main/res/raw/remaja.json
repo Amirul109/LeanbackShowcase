@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "type": "GRID_SQUARE",
+      "title": "Perbedaan",
+      "description": "Saling menghargai perbedaan yang ada. ",
+      "localImageResource": "remaja1"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Saling menghargai perbedaan",
+      "description": "Saling memahami satu sama lain. ",
+      "localImageResource": "remaja2"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Jati Diri",
+      "description": "Membantu dan mengingat sesuatu. ",
+      "localImageResource": "remaja3"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Emosional",
+      "description": "Ketika dirinya merasa tersakiti timbul rasa kesal dan marah. ",
+      "localImageResource": "remaja4"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Bermain",
+      "description": "Saling bermain dengan teman sebayanya dan tidak saling mencela. ",
+      "localImageResource": "remaja5"
+    }
+  ]
+}

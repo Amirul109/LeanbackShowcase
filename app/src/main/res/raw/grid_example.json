@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "type": "GRID_SQUARE",
+      "title": "Bermain",
+      "description": "Bermain dan belajar.",
+      "localImageResource": "anak1"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Belajar Bahasa Inggris",
+      "description": "Belajar mengenal bahasa internasional di kehidupan sehari-hari.",
+      "localImageResource": "anak2"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Tanggung Jawab",
+      "description": "Bermain dan belajar.",
+      "localImageResource": "anak3"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Jujur",
+      "description": "Bermain dan belajar.",
+      "localImageResource": "anak4"
+    }
+  ]
+}
